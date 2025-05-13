@@ -12,8 +12,8 @@
 
 // Blynk Auth Token, WiFi credentials
 char auth[] = "f6qVqF6R8hfhr7vjOXG9O03h-rD5xPMD";
-char ssid[] = "Realme GT 6T";
-char pass[] = "akshat12";
+char ssid[] = "Your WiFi name";
+char pass[] = "Password";
 
 // Ultrasonic Sensor Pins
 #define TRIG_PIN1 23
