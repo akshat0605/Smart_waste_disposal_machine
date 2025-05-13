@@ -20,6 +20,6 @@ Guidelines:
     
     Be respectful and constructive.
     
-    For questions, open an issue or contact the maintainers.
+For questions, open an issue or contact the maintainers.
 
 Thank you for helping improve this project!
