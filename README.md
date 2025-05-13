@@ -43,9 +43,11 @@ LEDs, Batteries, Acrylic Sheets
 
 Contributing:
 We welcome contributions! Please refer to the CONTRIBUTING.md for guidelines on how to get started.
+https://github.com/akshat0605/Smart_waste_disposal_machine/blob/main/CONTRIBUTING.md
 
 License:
 This project is licensed under the MIT License. See the LICENSE file for more information.
+https://github.com/akshat0605/Smart_waste_disposal_machine/blob/main/LICENSE
 
 Technologies Used:
 Microcontrollers: ESP-32, Arduino UNO
