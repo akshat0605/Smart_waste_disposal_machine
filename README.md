@@ -47,7 +47,7 @@ https://github.com/akshat0605/Smart_waste_disposal_machine/blob/main/CONTRIBUTIN
 
 License:
 This project is licensed under the MIT License. See the LICENSE file for more information.
-https://github.com/akshat0605/Smart_waste_disposal_machine/blob/main/LICENSE
+https://github.com/akshat0605/Smart_waste_disposal_machine/blob/main/LICENSE.md
 
 Technologies Used:
 Microcontrollers: ESP-32, Arduino UNO
