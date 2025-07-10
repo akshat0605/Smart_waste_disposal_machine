@@ -47,10 +47,6 @@ Semi-automated sealing via a motor-driven thread wrap ensures hygiene.
 Three LEDs provide a local, visual signal of waste levels.
 
 
-## 📚 Documentation
-
-Full project documentation, CAD models, and detailed implementation steps are available in the project report.
-
 ## 🔧 Prerequisites
 
 ### Software
