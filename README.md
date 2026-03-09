@@ -22,7 +22,7 @@ Insert 18650 Li-Ion batteries and power on the device.
     - Remove the sealed bag when full.
     - Insert a new bag to continue operation.
 
-## 🛠️ Installation Instructions
+##  Installation Instructions
 
 - **Install Required Libraries:**
 Ensure all necessary libraries are added to your development environment.
