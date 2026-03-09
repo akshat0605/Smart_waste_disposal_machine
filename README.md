@@ -1,13 +1,13 @@
 
-# 🚮 Smart Disposal Machine (SDM)
+#  Smart Disposal Machine (SDM)
 
 **An IoT-enabled, hygienic, and efficient waste disposal solution for smarter garbage management in high-traffic areas.**
 
-## ✨ Overview
+##  Overview
 
 The **Smart Disposal Machine (SDM)** is designed to revolutionize waste management in places like airports, railway stations, and university campuses. With real-time fill monitoring, expandable storage, and semi-automated bag sealing, SDM ensures both operational efficiency and superior sanitation.
 
-## ⚡ Quick Start Guide
+##  Quick Start Guide
 
 1. **Power Up:**
 Insert 18650 Li-Ion batteries and power on the device.
@@ -34,7 +34,7 @@ Connect all components as per the circuit diagram in the documentation.
 Launch the Blynk app and bind your device for live control and monitoring.
 
 
-## 🚀 Basic Usage
+##  Basic Usage
 
 - **Fill Detection:**
 Four ultrasonic sensors continuously monitor waste levels.
@@ -46,7 +46,7 @@ Semi-automated sealing via a motor-driven thread wrap ensures hygiene.
 Three LEDs provide a local, visual signal of waste levels.
 
 
-## 🔧 Prerequisites
+##  Prerequisites
 
 ### Software
 
@@ -67,17 +67,17 @@ Three LEDs provide a local, visual signal of waste levels.
 - LEDs, Batteries, Acrylic Sheets
 
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions!
 Please see the [CONTRIBUTING.md](https://github.com/akshat0605/Smart_waste_disposal_machine/blob/main/CONTRIBUTING.md) for guidelines on how to get started.
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
 See the [LICENSE](https://github.com/akshat0605/Smart_waste_disposal_machine/blob/main/LICENSE.md) file for more information.
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 | Category | Details |
 | :-- | :-- |
